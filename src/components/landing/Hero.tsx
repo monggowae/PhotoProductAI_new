@@ -15,7 +15,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl sm:text-2xl text-purple-200 mb-10 sm:mb-12 max-w-3xl mx-auto">
-            Sempurna untuk e-commerce, pemasaran, dan banyak lagi.
+            Foto Produk Kini Makin Mudah. Sempurna untuk e-commerce, pemasaran, dan banyak lagi.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center mb-16">
